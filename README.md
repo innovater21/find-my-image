@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Find My Image
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Find your image by keywords or uploading a similar image
 
 ## Available Scripts
 
